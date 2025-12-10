@@ -1,2 +1,7 @@
 .unikraft/
 .config*
+
+.direnv
+kraftkit
+kraftkit-cs360v
+
