@@ -2,6 +2,7 @@
 .config*
 
 .direnv
+.envrc
 kraftkit
 kraftkit-cs360v
 

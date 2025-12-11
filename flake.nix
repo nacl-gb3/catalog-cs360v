@@ -17,6 +17,7 @@
         devShells.default = pkgs.mkShell {
           nativeBuildInputs = [
             pkgs.go
+            pkgs.gofumpt
             pkgs.pkg-config
             pkgs.flex
             pkgs.bison
